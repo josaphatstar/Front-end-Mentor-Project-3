@@ -85,3 +85,7 @@ img{
     font-weight: 600;
     background-color: hsl(0, 0%, 20%);
 }
+
+.buttons div:hover{
+    background-color: hsl(75, 74%, 27%);
+}
